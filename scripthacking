@@ -1,0 +1,15 @@
+Running this at http://www.onlinehtmleditor.net/
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A124059643%3Aplaylist%3A40f7ICwV6p12BNmA4CTDfo" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+<script>
+var i = 1;
+i = i+1;
+</script>
+<p id="demo"></p>
+
+
+<script>
+document.getElementById("demo").innerHTML = "Currently playing track: " + i;
+</script>
