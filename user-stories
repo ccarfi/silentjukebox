@@ -1,8 +1,11 @@
-As a user, I should be able to play the Spotify playlist called slackboxpro from the beginning.
-As a user, I should be able to see the index # of the current song playing from a Spotify playlist called slackboxpro.
+BACKLOG
 As a user, I should be able to play the Spotify playlist called slackboxpro from an starting point other than the first track ("index zero").
+As a user, I should be able to see the index # of the current song playing from a Spotify playlist called slackboxpro.
 As a user, I should be able to see the time remaining of the current song playing from a Spotify playlist called slackboxpro.
 As a user, I should see the index number increment when the time remaining in the current song reaches zero.
 Two users on different computers should be able to both start at the same currently-playing song in the playlist slackboxpro if they hit "play" at the same time.
 As a user, I should be able to play the Spotify playlist called slackboxpro from a point in the middle of song.
 Two users on different computers should be able to both start at the same point in the middle of a currently-playing song in the playlist slackboxpro if they hit "play" at the same time.
+
+COMPLETED STORIES
+As a user, I should be able to play the Spotify playlist called slackboxpro from the beginning.
